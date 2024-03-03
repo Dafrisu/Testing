@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\TP_MOD_03_1302223156_DAFARAIMISUANDI\\Bebass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B654102C-4126-4944-9768-05F62230C7BF}|Bebass\\Bebass.csproj|c:\\users\\daffa\\documents\\file semester 4\\tp kpl\\tp_mod_03_1302223156_dafaraimisuandi\\bebass\\bebass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654102C-4126-4944-9768-05F62230C7BF}|Bebass\\Bebass.csproj|solutionrelative:bebass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\TP_MOD_03_1302223156_DAFARAIMISUANDI\\Bebass\\Bebass\\Program.cs",
+              "RelativeDocumentMoniker": "Bebass\\Program.cs",
+              "ToolTip": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\TP_MOD_03_1302223156_DAFARAIMISUANDI\\Bebass\\Bebass\\Program.cs",
+              "RelativeToolTip": "Bebass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:07:38.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
